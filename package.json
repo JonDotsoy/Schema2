@@ -1,0 +1,13 @@
+{
+  "name": "schema2",
+  "version": "0.1.0",
+  "engine": {
+    "node": ">=6.2"
+  },
+  "description": "",
+  "main": "Schema2.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jonathan Delgado <hi@jon.soy> (http://jon.soy/)",
+  "license": "MIT"
+}
