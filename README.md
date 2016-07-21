@@ -3,8 +3,8 @@ Schema2
 
 `＜(。_。)＞` Sorry, this is just beginning.
 
-### tl;dr
-The idea is simple structure and evaluates the objects in Javascript.
+> ### tl;dr
+> The idea is simple structure and evaluates the objects in Javascript.
 
 
 ## Example
