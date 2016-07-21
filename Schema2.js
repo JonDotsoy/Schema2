@@ -106,3 +106,6 @@ Schema2.find = schemaFindChild
 Schema2.set = setter
 
 Schema2.parse = (a,b = null) => b===null ? schemaParse([], a): schemaParse(a, b)
+
+module.exports['default'] = Schema2
+module.exports['Schema2'] = Schema2
