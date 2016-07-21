@@ -1,0 +1,13 @@
+{
+  "name": "schema2",
+  "version": "0.1.0",
+  "engine": {
+    "node": ">=6.2"
+  },
+  "description": "The idea is simple structure and evaluates the objects in Javascript.",
+  "main": "Schema2.js",
+  "scripts": {},
+  "keywords": ["schema", "valite", "library"],
+  "author": "Jonathan Delgado <hi@jon.soy> (http://jon.soy/)",
+  "license": "MIT"
+}
