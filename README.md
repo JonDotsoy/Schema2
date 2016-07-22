@@ -1,8 +1,8 @@
 Schema2
 =======
 
-![npm install schema2](https://nodei.co/npm/schema2.png?downloads=true&downloadRank=true&stars=true)
-![NPM](https://nodei.co/npm-dl/schema2.png?months=1&height=3)
+[![NPM](https://nodei.co/npm/schema2.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/schema2/)
+[![NPM](https://nodei.co/npm-dl/schema2.png?months=1&height=3)](https://nodei.co/npm/schema2/)
 
 [![GitHub issues](https://img.shields.io/github/issues/JonDotsoy/Schema2.svg)](https://github.com/JonDotsoy/Schema2/issues)
 [![GitHub forks](https://img.shields.io/github/forks/JonDotsoy/Schema2.svg)](https://github.com/JonDotsoy/Schema2/network)
