@@ -1,5 +1,4 @@
-Schema2
-=======
+# Schema2 — A simple objects validator
 
 [![NPM](https://nodei.co/npm/schema2.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/schema2/)
 [![NPM](https://nodei.co/npm-dl/schema2.png?months=1&height=3)](https://nodei.co/npm/schema2/)
