@@ -2,6 +2,7 @@ Schema2
 =======
 
 ![npm install schema2](https://nodei.co/npm/schema2.png?downloads=true&downloadRank=true&stars=true)
+![NPM](https://nodei.co/npm-dl/Schema2.png)
 
 `＜(。_。)＞` Sorry, this is just beginning.
 
