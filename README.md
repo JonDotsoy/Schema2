@@ -3,6 +3,8 @@
 [![NPM](https://nodei.co/npm/schema2.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/schema2/)
 [![NPM](https://nodei.co/npm-dl/schema2.png?months=1&height=3)](https://nodei.co/npm/schema2/)
 
+[![npm](https://img.shields.io/npm/v/schema2.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/schema2)
+[![npm](https://img.shields.io/npm/dt/schema2.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/schema2)
 [![GitHub issues](https://img.shields.io/github/issues/JonDotsoy/Schema2.svg)](https://github.com/JonDotsoy/Schema2/issues)
 [![GitHub forks](https://img.shields.io/github/forks/JonDotsoy/Schema2.svg)](https://github.com/JonDotsoy/Schema2/network)
 [![GitHub stars](https://img.shields.io/github/stars/JonDotsoy/Schema2.svg)](https://github.com/JonDotsoy/Schema2/stargazers)
